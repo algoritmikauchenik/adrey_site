@@ -1,0 +1,18 @@
+body {
+    font-family: sans-serif;
+}
+
+.asdf {
+    text-shadow: 4px 4px 4px slateblue;
+    color: rgb(3, 90, 152)
+}
+
+.as {
+    text-shadow: 4px 4px 4px slateblue;
+}
+
+.link-header {
+    text-shadow: 4px 4px 4px slateblue;
+    text-decoration: none;
+    color: black;
+}
